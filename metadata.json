@@ -1,6 +1,6 @@
 {
   "name": "BeeClaimer Pro Faucet",
-  "description": "Professional Crypto Faucet Mini App with Mining, Daily Rewards, and Referral System.",
+  "description": "A high-end Telegram Mini App for crypto rewards featuring cloud mining simulation, daily bonuses, and a secure withdrawal system.",
   "requestFramePermissions": [
     "camera"
   ]
